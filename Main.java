@@ -39,6 +39,6 @@ class TwoDArray
             System.out.print(nums[i][j] + " ");
           }//end for loop
           System.out.println();
-      }//end main method
-  }//end class Main
-}
+      }//end for loop
+  }//end main method
+}//end class TwoDArray
